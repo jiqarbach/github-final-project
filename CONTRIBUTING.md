@@ -1,1 +1,1 @@
-https://github.com/jiqarbach/LogisticsShippingRates-/blob/main/CONTRIBUTING.md
+https://github.com/jiqarbach/LogisticsShippingRates-/blob/main/CODE_OF_CONDUCT.md
