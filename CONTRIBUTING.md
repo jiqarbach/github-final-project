@@ -1,1 +1,1 @@
-https://github.com/jiqarbach/shipping-calculator/blob/main/CONTRIBUTING.md
+https://github.com/jiqarbach/LogisticsShippingRates-/blob/main/CONTRIBUTING.md
