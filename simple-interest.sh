@@ -1,11 +1,14 @@
-# Shipping Cost Calculator
+#!/bin/bash
 
-## Input package weight and shipping rate
-weight = float(input("Enter the package weight in kilograms: "))
-rate = float(input("Enter the shipping rate per kilogram: "))
+echo "Enter the principal:"
+read principal
 
-## Calculate shipping cost
-shipping_cost = weight * rate
+echo "Enter the rate of interest:"
+read rate
 
-## Display the result
-print(f"Shipping Cost: {shipping_cost} USD")
+echo "Enter the time period:"
+read time
+
+simple_interest=$((principal * rate * time / 100))
+
+echo "The simple interest is: $simple_interest"
